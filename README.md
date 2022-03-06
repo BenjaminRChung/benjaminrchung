@@ -1,5 +1,7 @@
 ### Hi there 👋
-site is currently in progress! 
+Nice to meet you! Let's chat
+
+Email: benjamin.chung@uwaterloo.ca
 
 <!--
 **BenjaminRChung/benjaminrchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
