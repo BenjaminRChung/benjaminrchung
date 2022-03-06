@@ -1,7 +1,7 @@
 ### Hi there 👋
-Nice to meet you! Let's chat
+Nice to meet you! Let's chat.
 
-Email: benjamin.chung@uwaterloo.ca
+Reach me at: benjamin.chung@uwaterloo.ca
 
 <!--
 **BenjaminRChung/benjaminrchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
