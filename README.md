@@ -1,5 +1,5 @@
 ### Hi there 👋
-Nice to meet you! Let's chat.
+Nice to meet you! Always happy to chat.
 
 Reach me at: benjamin.chung@uwaterloo.ca
 
